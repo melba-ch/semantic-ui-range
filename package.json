@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cld-santos/semantic-ui-range"
+    "url": "https://github.com/melba-ch/semantic-ui-range"
   },
   "devDependencies": {
     "semantic-ui": ">=2.2.0"
